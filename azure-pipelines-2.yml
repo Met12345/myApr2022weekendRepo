@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: hii
+  name: self-host
 
 steps:
 - script: echo Hello, world!
